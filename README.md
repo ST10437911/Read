@@ -21,3 +21,25 @@
    '''bash
    https://github.com
    '''
+   ---
+
+   ## Usage
+   - Explain how one would use your specific program
+  
+   ---
+   ## Credits
+
+   - Included when you work with multiple team memebers
+   - [GeeksForGeeks](https://geeksforgeeks.org)
+  
+   ---
+   ## Developer Information
+   - Name:
+   - Email:
+  
+   ---
+
+  ## Refrences
+  - References 01
+  - References 02
+  - References 03
